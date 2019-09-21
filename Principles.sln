@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSP", "SLP\LSP.csproj", "{4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP", "ISP\ISP.csproj", "{79DEEF19-54AA-4CF0-9AFA-195592B0EDC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIP", "DIP\DIP.csproj", "{5077B531-CBCD-4271-A363-8F0F8B138FA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{79DEEF19-54AA-4CF0-9AFA-195592B0EDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79DEEF19-54AA-4CF0-9AFA-195592B0EDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79DEEF19-54AA-4CF0-9AFA-195592B0EDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5077B531-CBCD-4271-A363-8F0F8B138FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5077B531-CBCD-4271-A363-8F0F8B138FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5077B531-CBCD-4271-A363-8F0F8B138FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5077B531-CBCD-4271-A363-8F0F8B138FA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
