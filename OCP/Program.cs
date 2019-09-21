@@ -1,7 +1,6 @@
-﻿using System;
-
-namespace OCP
+﻿namespace OCP
 {
+	using System;
 	using System.Linq;
 
 	internal class Program
